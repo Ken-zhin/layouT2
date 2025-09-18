@@ -63,9 +63,9 @@ function Footer() {
 function App() {
   return (
     <div className="container">
-      <Header name="Robert"/>
+      <Header name="Ken-zhin"/>
       <Body />
-      <Footer name="Velasco"/>
+      <Footer name="Simeon"/>
     </div>
   )
 }
